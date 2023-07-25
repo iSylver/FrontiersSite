@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
   </head>
-  <body style="font-style: oblique; background-color: #bf67fc; color: #0f27fd;">
+  <body style="  font-style: oblique; background-color: #bf67fc; color: #0f27fd;">
     <div id="tswcontainer">
       <div id="tswcontent">
         <div id="tswcontproper">
@@ -19,9 +19,10 @@
           <p> I am doing Frontiers with a major of CS and a minor in Cinematic
             Storytelling </p>
           <p> (insert more text here) </p>
-          <p> (more test here) </p>
+          <p> (more textt here) </p>
           <p>&nbsp;</p>
           <!-- Content ^ --> </div>
+        <img src="file:///Z:/images/worcester-polytechnic.jpg" alt="Sylvia Logo">
       </div>
       <div id="tswsidecol">
         <div id="tswsideproper">
