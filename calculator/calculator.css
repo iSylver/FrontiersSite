@@ -24,3 +24,12 @@ input {
 h1 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+#resultBox {
+    font-size: 25px;
+}
+
+#historyBox {
+    border-style: solid;
+    width: 20%;
+}
