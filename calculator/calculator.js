@@ -4,17 +4,17 @@ let result = document.getElementById(`result`);
 let history = document.getElementById(`history`);
 function add() {
      result.innerHTML = parseFloat(a.value) + parseFloat(b.value);
-    history.innerHTML += a.value + "+" + b.value + "=" +  result.innerHTML + "<br/>";
+    history.innerHTML += a.value + " + " + b.value + " = " +  result.innerHTML + "<br/>";
 }
 function sub() {
      result.innerHTML = a.value - b.value;
-     history.innerHTML += a.value + "-" + b.value + "=" +  result.innerHTML + "<br/>";
+     history.innerHTML += a.value + " - " + b.value + " = " +  result.innerHTML + "<br/>";
 
 
 }
 function mul() {
      result.innerHTML = a.value * b.value;
-     history.innerHTML += a.value + "*" + b.value + "=" +  result.innerHTML + "<br/>";
+     history.innerHTML += a.value + " * " + b.value + " = " +  result.innerHTML + "<br/>";
 
 
 }
@@ -22,7 +22,7 @@ function mul() {
 
 function div() {
      result.innerHTML = a.value / b.value;
-     history.innerHTML += a.value + "/" + b.value + "=" +  result.innerHTML + "<br/>";
+     history.innerHTML += a.value + " / " + b.value + " = " +  result.innerHTML + "<br/>";
 
 
 }
@@ -30,7 +30,7 @@ function div() {
 
 function mod() {
      result.innerHTML = a.value % b.value;
-     history.innerHTML += a.value + "%" + b.value + "=" +  result.innerHTML + "<br/>";
-
+     history.innerHTML += a.value + " % " + b.value + " = " +  result.innerHTML + "<br/>";
+ 
 
 }
