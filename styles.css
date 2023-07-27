@@ -17,8 +17,8 @@ meter, progress, output {
 }
 
 div#tswsidecol {
-  float: right;
-  width: 15%;
+  float: left;
+  width: 20%;
   color: black;
   background-color: #6600cc;
 }
